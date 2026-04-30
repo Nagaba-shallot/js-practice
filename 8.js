@@ -1,3 +1,4 @@
+//Double it
 function doubleArray(arr){
     for(let i = 0;i <arr.length;i++){
        
