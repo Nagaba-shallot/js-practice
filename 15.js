@@ -14,4 +14,4 @@ function timeTableGrid(size){
         }
     }
 }
-timeTableGrid(2);
+timeTableGrid(12);
